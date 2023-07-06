@@ -1,5 +1,5 @@
 %TWO LAYERS OF SOIL ON ELASTIC HALFSPACE
-%ΑΝΑΠΤΥΞΗ ΚΩΔΙΚΑ ΓΙΑ ΤΗΝ ΔΙΠΛΩΜΑΤΙΚΗ ΤΟΥ ΔΗΜΗΤΡΗ ΚΟΚΟΡΗ
+%Code deelopement as a proof of concept
 h1=12.5; %thikness of under soil layer
 h2=12.5; %thikness of down soil layer
 vs1=200; %shear wave velocity of soil 1
